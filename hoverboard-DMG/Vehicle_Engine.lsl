@@ -289,6 +289,7 @@ default
     //#################################################################
     //#################################################################
     //#################################################################
+    // I put this here so that I could actually find the timer function when scrolling through the code.
     timer()
     {
         llSetForce(<0.0,0.0,gravity>,0);
